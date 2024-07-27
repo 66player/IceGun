@@ -1,0 +1,13 @@
+cooldown-time: 10  # Cooldown time in seconds
+
+icegun:
+  name: "&l✶IceGun✶"  # Name of the IceGun
+  lore:                 # Lore of the IceGun
+    - "&7Kliknij aby wystrzelić perłę"
+    - "&7By Mitwach & 0nyc"
+
+messages:
+  icegun-received: "&aOtrzymałeś IceGun!"
+  cooldown: "&cMusisz poczekać {cooldown-time} sekund przed ponownym użyciem IceGun!"
+  no-permission: "&cNie posiadasz do tego uprawnień!"
+  non-player: "Ta komenda jest dostępna tylko dla graczy."

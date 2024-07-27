@@ -1,0 +1,10 @@
+name: mit.IceGun
+version: '${project.version}'
+main: zero.nyc.mit.Mi
+api-version: '1.13'
+authors: [0nyc & Mitwach]
+commands:
+  icegun:
+permissions:
+  icegun:
+    command:
